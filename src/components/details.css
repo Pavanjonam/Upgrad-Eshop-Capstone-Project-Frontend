@@ -1,0 +1,13 @@
+.imgDiv{
+    background-color: rgb(132,136,139); 
+    /* flex-direction: row; */
+    margin: 2% !important;
+}
+
+.mainDiv{
+    flex-direction: column;
+    display: flex;
+    margin-top: 18%; 
+    margin-left: 2%; 
+    margin-right: auto;
+}
